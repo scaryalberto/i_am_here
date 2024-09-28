@@ -1,0 +1,280 @@
+-- Merging decision tree log ---
+application
+INJECTED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml:7:5-37:19
+MERGED from [:geolocator_android] /home/alberto-dell/AndroidStudioProjects/iam_here/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:geolocator_android] /home/alberto-dell/AndroidStudioProjects/iam_here/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-location:21.2.0] /home/alberto-dell/.gradle/caches/transforms-3/73acd38789f4c512a0b995eb466a0ec8/transformed/jetified-play-services-location-21.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.2.0] /home/alberto-dell/.gradle/caches/transforms-3/73acd38789f4c512a0b995eb466a0ec8/transformed/jetified-play-services-location-21.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /home/alberto-dell/.gradle/caches/transforms-3/b97fe729fb24040996d37fecc76e6214/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /home/alberto-dell/.gradle/caches/transforms-3/b97fe729fb24040996d37fecc76e6214/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /home/alberto-dell/.gradle/caches/transforms-3/64e0c0db3fddc78806c2eb6533f6a7eb/transformed/jetified-play-services-tasks-18.1.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /home/alberto-dell/.gradle/caches/transforms-3/64e0c0db3fddc78806c2eb6533f6a7eb/transformed/jetified-play-services-tasks-18.1.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /home/alberto-dell/.gradle/caches/transforms-3/6922c8b9d0d458ee693c6453890360e0/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /home/alberto-dell/.gradle/caches/transforms-3/6922c8b9d0d458ee693c6453890360e0/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/alberto-dell/.gradle/caches/transforms-3/a4ff91b1e16e8d6095369e4d5d6ee5d6/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/alberto-dell/.gradle/caches/transforms-3/a4ff91b1e16e8d6095369e4d5d6ee5d6/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.13.0] /home/alberto-dell/.gradle/caches/transforms-3/6818051029aec1ae7603ab134a3af80e/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] /home/alberto-dell/.gradle/caches/transforms-3/6818051029aec1ae7603ab134a3af80e/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/alberto-dell/.gradle/caches/transforms-3/570dab29f962f28c2773081fbc317560/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/alberto-dell/.gradle/caches/transforms-3/570dab29f962f28c2773081fbc317560/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/alberto-dell/.gradle/caches/transforms-3/e9cf6cfbcbbeddf6369256f241d4d76e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/alberto-dell/.gradle/caches/transforms-3/e9cf6cfbcbbeddf6369256f241d4d76e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] /home/alberto-dell/.gradle/caches/transforms-3/6818051029aec1ae7603ab134a3af80e/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+	android:name
+		INJECTED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml:1:1-49:12
+MERGED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml:1:1-49:12
+MERGED from [:shared_preferences_android] /home/alberto-dell/AndroidStudioProjects/iam_here/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:permission_handler_android] /home/alberto-dell/AndroidStudioProjects/iam_here/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:geolocator_android] /home/alberto-dell/AndroidStudioProjects/iam_here/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:path_provider_android] /home/alberto-dell/AndroidStudioProjects/iam_here/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-location:21.2.0] /home/alberto-dell/.gradle/caches/transforms-3/73acd38789f4c512a0b995eb466a0ec8/transformed/jetified-play-services-location-21.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /home/alberto-dell/.gradle/caches/transforms-3/b97fe729fb24040996d37fecc76e6214/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /home/alberto-dell/.gradle/caches/transforms-3/64e0c0db3fddc78806c2eb6533f6a7eb/transformed/jetified-play-services-tasks-18.1.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /home/alberto-dell/.gradle/caches/transforms-3/6922c8b9d0d458ee693c6453890360e0/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/alberto-dell/.gradle/caches/transforms-3/0473c9612a520435909ddb7619c3775a/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/alberto-dell/.gradle/caches/transforms-3/8c50f4adb16c84992c741636704e4d91/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/alberto-dell/.gradle/caches/transforms-3/de3c0c480650682844fd70e7e9a562fc/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/alberto-dell/.gradle/caches/transforms-3/4b00def0bca2f13cd55c81808711d2d6/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/alberto-dell/.gradle/caches/transforms-3/bf25ac331d3a77a7f9dff99f15840bfb/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0-beta04] /home/alberto-dell/.gradle/caches/transforms-3/a4ff91b1e16e8d6095369e4d5d6ee5d6/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.customview:customview:1.0.0] /home/alberto-dell/.gradle/caches/transforms-3/6ef9145f1392bd656d095e2527b70943/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.0] /home/alberto-dell/.gradle/caches/transforms-3/6818051029aec1ae7603ab134a3af80e/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/alberto-dell/.gradle/caches/transforms-3/cb56586a2908de7ad4404d2d66e94343/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/alberto-dell/.gradle/caches/transforms-3/38e807687dc7623663dbd1eb939dac5d/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/alberto-dell/.gradle/caches/transforms-3/20399dfc48d17def9df0b4c623cbf7cf/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/alberto-dell/.gradle/caches/transforms-3/1e1267c5756c9eb0c5ac75b264ce0d7e/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/alberto-dell/.gradle/caches/transforms-3/ce9e16e4e9c5487d76e61446103c54f8/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/alberto-dell/.gradle/caches/transforms-3/87754f4427bf0554f3ca700454b51c0b/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/alberto-dell/.gradle/caches/transforms-3/570dab29f962f28c2773081fbc317560/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/alberto-dell/.gradle/caches/transforms-3/9e6e61d4ab7ec037d29a6a8b5fa37564/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/alberto-dell/.gradle/caches/transforms-3/a0e414ab20ba105724b92115c8520467/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/alberto-dell/.gradle/caches/transforms-3/e9cf6cfbcbbeddf6369256f241d4d76e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/alberto-dell/.gradle/caches/transforms-3/40275eb23591226d1fd8812296e04710/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		INJECTED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml:1:1-49:12
+		INJECTED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml:1:1-49:12
+		INJECTED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml:1:1-49:12
+		INJECTED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml:3:5-78
+	android:name
+		ADDED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml:3:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml:4:5-80
+	android:name
+		ADDED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml:4:22-78
+queries
+ADDED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml:43:5-48:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml:44:9-47:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml:45:13-72
+	android:name
+		ADDED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml:45:21-70
+data
+ADDED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml:46:13-50
+	android:mimeType
+		ADDED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml:46:19-48
+uses-sdk
+INJECTED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml
+MERGED from [:shared_preferences_android] /home/alberto-dell/AndroidStudioProjects/iam_here/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] /home/alberto-dell/AndroidStudioProjects/iam_here/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler_android] /home/alberto-dell/AndroidStudioProjects/iam_here/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler_android] /home/alberto-dell/AndroidStudioProjects/iam_here/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] /home/alberto-dell/AndroidStudioProjects/iam_here/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] /home/alberto-dell/AndroidStudioProjects/iam_here/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /home/alberto-dell/AndroidStudioProjects/iam_here/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /home/alberto-dell/AndroidStudioProjects/iam_here/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:21.2.0] /home/alberto-dell/.gradle/caches/transforms-3/73acd38789f4c512a0b995eb466a0ec8/transformed/jetified-play-services-location-21.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.2.0] /home/alberto-dell/.gradle/caches/transforms-3/73acd38789f4c512a0b995eb466a0ec8/transformed/jetified-play-services-location-21.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /home/alberto-dell/.gradle/caches/transforms-3/b97fe729fb24040996d37fecc76e6214/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /home/alberto-dell/.gradle/caches/transforms-3/b97fe729fb24040996d37fecc76e6214/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /home/alberto-dell/.gradle/caches/transforms-3/64e0c0db3fddc78806c2eb6533f6a7eb/transformed/jetified-play-services-tasks-18.1.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /home/alberto-dell/.gradle/caches/transforms-3/64e0c0db3fddc78806c2eb6533f6a7eb/transformed/jetified-play-services-tasks-18.1.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /home/alberto-dell/.gradle/caches/transforms-3/6922c8b9d0d458ee693c6453890360e0/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /home/alberto-dell/.gradle/caches/transforms-3/6922c8b9d0d458ee693c6453890360e0/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] /home/alberto-dell/.gradle/caches/transforms-3/0473c9612a520435909ddb7619c3775a/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/alberto-dell/.gradle/caches/transforms-3/0473c9612a520435909ddb7619c3775a/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/alberto-dell/.gradle/caches/transforms-3/8c50f4adb16c84992c741636704e4d91/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/alberto-dell/.gradle/caches/transforms-3/8c50f4adb16c84992c741636704e4d91/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/alberto-dell/.gradle/caches/transforms-3/de3c0c480650682844fd70e7e9a562fc/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/alberto-dell/.gradle/caches/transforms-3/de3c0c480650682844fd70e7e9a562fc/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/alberto-dell/.gradle/caches/transforms-3/4b00def0bca2f13cd55c81808711d2d6/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/alberto-dell/.gradle/caches/transforms-3/4b00def0bca2f13cd55c81808711d2d6/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/alberto-dell/.gradle/caches/transforms-3/bf25ac331d3a77a7f9dff99f15840bfb/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/alberto-dell/.gradle/caches/transforms-3/bf25ac331d3a77a7f9dff99f15840bfb/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/alberto-dell/.gradle/caches/transforms-3/a4ff91b1e16e8d6095369e4d5d6ee5d6/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/alberto-dell/.gradle/caches/transforms-3/a4ff91b1e16e8d6095369e4d5d6ee5d6/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/alberto-dell/.gradle/caches/transforms-3/6ef9145f1392bd656d095e2527b70943/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/alberto-dell/.gradle/caches/transforms-3/6ef9145f1392bd656d095e2527b70943/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /home/alberto-dell/.gradle/caches/transforms-3/6818051029aec1ae7603ab134a3af80e/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /home/alberto-dell/.gradle/caches/transforms-3/6818051029aec1ae7603ab134a3af80e/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/alberto-dell/.gradle/caches/transforms-3/cb56586a2908de7ad4404d2d66e94343/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/alberto-dell/.gradle/caches/transforms-3/cb56586a2908de7ad4404d2d66e94343/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/alberto-dell/.gradle/caches/transforms-3/38e807687dc7623663dbd1eb939dac5d/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/alberto-dell/.gradle/caches/transforms-3/38e807687dc7623663dbd1eb939dac5d/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/alberto-dell/.gradle/caches/transforms-3/20399dfc48d17def9df0b4c623cbf7cf/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/alberto-dell/.gradle/caches/transforms-3/20399dfc48d17def9df0b4c623cbf7cf/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/alberto-dell/.gradle/caches/transforms-3/1e1267c5756c9eb0c5ac75b264ce0d7e/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/alberto-dell/.gradle/caches/transforms-3/1e1267c5756c9eb0c5ac75b264ce0d7e/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/alberto-dell/.gradle/caches/transforms-3/ce9e16e4e9c5487d76e61446103c54f8/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/alberto-dell/.gradle/caches/transforms-3/ce9e16e4e9c5487d76e61446103c54f8/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/alberto-dell/.gradle/caches/transforms-3/87754f4427bf0554f3ca700454b51c0b/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/alberto-dell/.gradle/caches/transforms-3/87754f4427bf0554f3ca700454b51c0b/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/alberto-dell/.gradle/caches/transforms-3/570dab29f962f28c2773081fbc317560/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/alberto-dell/.gradle/caches/transforms-3/570dab29f962f28c2773081fbc317560/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/alberto-dell/.gradle/caches/transforms-3/9e6e61d4ab7ec037d29a6a8b5fa37564/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/alberto-dell/.gradle/caches/transforms-3/9e6e61d4ab7ec037d29a6a8b5fa37564/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/alberto-dell/.gradle/caches/transforms-3/a0e414ab20ba105724b92115c8520467/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/alberto-dell/.gradle/caches/transforms-3/a0e414ab20ba105724b92115c8520467/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/alberto-dell/.gradle/caches/transforms-3/e9cf6cfbcbbeddf6369256f241d4d76e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/alberto-dell/.gradle/caches/transforms-3/e9cf6cfbcbbeddf6369256f241d4d76e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/alberto-dell/.gradle/caches/transforms-3/40275eb23591226d1fd8812296e04710/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/alberto-dell/.gradle/caches/transforms-3/40275eb23591226d1fd8812296e04710/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /home/alberto-dell/AndroidStudioProjects/iam_here/android/app/src/debug/AndroidManifest.xml:6:22-64
+service#com.baseflow.geolocator.GeolocatorLocationService
+ADDED from [:geolocator_android] /home/alberto-dell/AndroidStudioProjects/iam_here/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:56
+	android:enabled
+		ADDED from [:geolocator_android] /home/alberto-dell/AndroidStudioProjects/iam_here/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-35
+	android:exported
+		ADDED from [:geolocator_android] /home/alberto-dell/AndroidStudioProjects/iam_here/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+	android:foregroundServiceType
+		ADDED from [:geolocator_android] /home/alberto-dell/AndroidStudioProjects/iam_here/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-53
+	android:name
+		ADDED from [:geolocator_android] /home/alberto-dell/AndroidStudioProjects/iam_here/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.3.0] /home/alberto-dell/.gradle/caches/transforms-3/b97fe729fb24040996d37fecc76e6214/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] /home/alberto-dell/.gradle/caches/transforms-3/b97fe729fb24040996d37fecc76e6214/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] /home/alberto-dell/.gradle/caches/transforms-3/b97fe729fb24040996d37fecc76e6214/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] /home/alberto-dell/.gradle/caches/transforms-3/b97fe729fb24040996d37fecc76e6214/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] /home/alberto-dell/.gradle/caches/transforms-3/6922c8b9d0d458ee693c6453890360e0/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] /home/alberto-dell/.gradle/caches/transforms-3/6922c8b9d0d458ee693c6453890360e0/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] /home/alberto-dell/.gradle/caches/transforms-3/6922c8b9d0d458ee693c6453890360e0/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:22:13-58
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /home/alberto-dell/.gradle/caches/transforms-3/a4ff91b1e16e8d6095369e4d5d6ee5d6/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/alberto-dell/.gradle/caches/transforms-3/a4ff91b1e16e8d6095369e4d5d6ee5d6/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/alberto-dell/.gradle/caches/transforms-3/a4ff91b1e16e8d6095369e4d5d6ee5d6/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /home/alberto-dell/.gradle/caches/transforms-3/a4ff91b1e16e8d6095369e4d5d6ee5d6/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/alberto-dell/.gradle/caches/transforms-3/a4ff91b1e16e8d6095369e4d5d6ee5d6/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/alberto-dell/.gradle/caches/transforms-3/a4ff91b1e16e8d6095369e4d5d6ee5d6/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/alberto-dell/.gradle/caches/transforms-3/6818051029aec1ae7603ab134a3af80e/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /home/alberto-dell/.gradle/caches/transforms-3/6818051029aec1ae7603ab134a3af80e/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/alberto-dell/.gradle/caches/transforms-3/6818051029aec1ae7603ab134a3af80e/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+permission#com.example.iam_here.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/alberto-dell/.gradle/caches/transforms-3/6818051029aec1ae7603ab134a3af80e/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /home/alberto-dell/.gradle/caches/transforms-3/6818051029aec1ae7603ab134a3af80e/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/alberto-dell/.gradle/caches/transforms-3/6818051029aec1ae7603ab134a3af80e/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/alberto-dell/.gradle/caches/transforms-3/6818051029aec1ae7603ab134a3af80e/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/alberto-dell/.gradle/caches/transforms-3/6818051029aec1ae7603ab134a3af80e/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.iam_here.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/alberto-dell/.gradle/caches/transforms-3/6818051029aec1ae7603ab134a3af80e/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/alberto-dell/.gradle/caches/transforms-3/6818051029aec1ae7603ab134a3af80e/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/alberto-dell/.gradle/caches/transforms-3/570dab29f962f28c2773081fbc317560/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/alberto-dell/.gradle/caches/transforms-3/570dab29f962f28c2773081fbc317560/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/alberto-dell/.gradle/caches/transforms-3/4f3a8caf29e1374cb13e72fb3c520153/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
