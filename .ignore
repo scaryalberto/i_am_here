@@ -1,0 +1,53 @@
+# Flutter specific
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.dart_tool/
+.packages
+build/
+pubspec.lock
+/ios/Flutter/Flutter.framework/
+/ios/Flutter/Flutter.podspec
+/.dart_tool/
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/.packages
+/generated_plugin_registrant.dart
+
+# Android specific
+android/.gradle/
+android/app/build/
+android/.idea/
+*.iml
+.idea/
+*.apk
+*.keystore
+
+# iOS specific
+ios/Pods/
+ios/Flutter/.last_build_id
+ios/Flutter/Generated.xcconfig
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/Podfile.lock
+
+# Miscellaneous
+*.log
+*.lock
+*.tmp
+*.temp
+.DS_Store
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+*.vscode/
+
+# Ignore generated files
+*.lock
+*.pyc
+*.pyo
+*.class
+
